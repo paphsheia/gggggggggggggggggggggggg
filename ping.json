@@ -2,9 +2,9 @@
     "query": [
         {
             "number": 1,
-            "name": "Arizona Denver",
-            "ip": "46.253.143.238",
-            "port": 1311,
+            "name": "Osland",
+            "ip": "176.31.233.153",
+            "port": 2129,
             "online": 0,
             "maxplayers": 100,
             "password": false,
